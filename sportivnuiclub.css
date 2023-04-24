@@ -185,12 +185,17 @@ color: #0077E5;
 
 }
 
+
+
+
+
+
 .ссылка1 {
 
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 22%;
+    top: 198px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -208,7 +213,7 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 10.85%;
-    top: 240px;
+    top: 233px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -226,7 +231,7 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 275px;
+    top: 268px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -244,7 +249,7 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 310px;
+    top: 303px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -262,7 +267,7 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 345px;
+    top: 338px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -280,7 +285,7 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 380px;
+    top: 373px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -298,7 +303,7 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 415px;
+    top: 408px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -316,7 +321,7 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 450px;
+    top: 443px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -334,7 +339,7 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 485px;
+    top: 478px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -352,7 +357,7 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 520px;
+    top: 513px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -365,24 +370,6 @@ color: #0077E5;
 
 }
 
-
-.заголовок4 {
-    position: absolute;
-    left: 6.25%;
-    right: 20.85%;
-    top: 555px;
-    bottom: 10.38%;
-        
-    font-family: 'Courier New';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 24px;
-        
-    color: #000000;
-    
-    
-}
 
 .заголовок4 {
     position: absolute;
@@ -433,9 +420,46 @@ color: #0077E5;
     font-size: 20px;
     line-height: 24px;
         
-    color: #000000;
+    color: rgb(0, 0, 0);
 
 }
+
+.ссылка12 {
+
+color: blue;
+
+}
+
+.ссылка13 {
+
+color: blue;
+    
+}
+
+.ссылка14 {
+
+color: blue;
+    
+}
+
+.ссылка15 {
+
+color: blue;
+    
+}
+    
+.ссылка16 {
+    
+    color: blue;
+        
+}
+    
+.ссылка17 {
+    
+    color: blue;
+        
+}
+
 
 
 

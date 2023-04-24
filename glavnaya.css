@@ -9,7 +9,7 @@ body {
     position: absolute;
     width: 800px;
     height: 420px;
-    top: 410px; 
+    top: 450px; 
     bottom: auto;
     right: auto; 
     left: 6.25%;
@@ -194,9 +194,9 @@ color: #0077E5;
     
     font-family: 'Courier New';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 900;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 30px;
     
     color: #000000;
 
@@ -207,14 +207,14 @@ color: #0077E5;
     position: absolute;
     left: 6.25%;
     right: 20%;
-    top: 844px;
+    top: 880px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 900;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 30px;
         
     color: #000000;
 

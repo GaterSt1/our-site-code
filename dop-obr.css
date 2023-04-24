@@ -4,14 +4,26 @@ body {
 
 }
 
+iframe {
+
+    position: absolute;
+    width: 950px;
+    height: 540px;
+    top: 500px; 
+    bottom: auto;
+    right: auto; 
+    left: 6.25%;
+
+}
+
 #square1 {
 
 position: absolute;
 width: 1920px;
-height: 1080px;
+height: 2920px;
 left: 0px;
-right: 0px;
-top: 0px;
+top: 0%;
+bottom: 907%;
 
 background-color: #D0D0D0;
 }
@@ -19,68 +31,69 @@ background-color: #D0D0D0;
 .загаловок1 { 
 
 
-position: absolute;
-left: 6.25%;
-right: 83.11%;
-top: 7%;
-bottom: 91.05%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 44px;
-
-
-color: #000000;
-
-text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
-
-}
-
-.загаловок2 { 
-
-
-position: absolute;
-left: 10.40%;
-right: 83.11%;
-top: 7%;
-bottom: 91.05%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 44px;
-
-
-color: #0077E5;
-
-text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
-
-}
-
-.загаловок3 { 
-
-
-position: absolute;
-left: 11.25%;
-right: 83.11%;
-top: 7%;
-bottom: 91.05%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 44px;
-
-
-color: #000000;
-
-text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
-
-}
+    position: absolute;
+    left: 6.25%;
+    right: 83.11%;
+    top: 7%;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    
+    color: #000000;
+    
+    text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
+    
+    .загаловок2 { 
+    
+    
+    position: absolute;
+    left: 10.40%;
+    right: 83.11%;
+    top: 7%;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    
+    color: #0077E5;
+    
+    text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
+    
+    .загаловок3 { 
+    
+    
+    position: absolute;
+    left: 11.25%;
+    right: 83.11%;
+    top: 7%;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    
+    color: #000000;
+    
+    text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
+    
 
 .главная {
 
@@ -171,166 +184,316 @@ color: #0077E5;
 
 }
 
-.d3 {
+.Памятка {
 
-width: 834px; 
-height: 834px;
-border-radius: 50%;
-
-position: absolute;
-left: 56%;
-right: 14.89%;
-top: 60%;
-bottom: 40%;
-
-background: #000000;
-
-}
-
-.d2 {
-
-width: 672px; 
-height: 672px;
-border-radius: 50%;
-    
-position: absolute;
-left: 85%;
-right: 00%;
-top: 35.00%;
-bottom: 65.00%;
-    
-background: #969696;
-box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
-    
-    }
-
-.d1 {
-
-width: 672px; 
-height: 672px;
-border-radius: 50%;
-
-position: absolute;
-left: 52.50%;
-right: 47.50%;
-top: 16.9%;
-bottom: 38.21%;
-
-background: #0077E5;
-box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    left: 6.25%;
+    right: 20.85%;
+    top: 209px;
+    bottom: 10.38%;
+        
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #528850;
 
 }
 
+.Анонс {
 
-.первый_текст1{
-
-position: absolute;
-left: 6.25%;
-right: 47.34%;
-top: 36.85%;
-bottom: 62.12%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 800;
-font-size: 45px;
-line-height: 40px;
-
-color: #000000;
-
-}
-
-.первый_текст2{
-
-position: absolute;
-left: 18.00%;
-right: 47.34%;
-top: 36.85%;
-bottom: 62.12%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 800;
-font-size: 45px;
-line-height: 40px;
-
-color: #0077E5;
+    position: absolute;
+    left: 6.25%;
+    right: 20.85%;
+    top: 244px;
+    bottom: 10.38%;
+        
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #528850;
 
 }
 
-.первый_текст3{
+.Вопросы {
 
-position: absolute;
-left: 22.25%;
-right: 47.34%;
-top: 36.85%;
-bottom: 62.12%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 800;
-font-size: 45px;
-line-height: 40px;
-
-color: #000000;
-
-}
-
-.первый_текст4{
-
-position: absolute;
-left: 6.25%;
-right: 47.34%;
-top: 40.85%;
-bottom: 62.12%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 800;
-font-size: 45px;
-line-height: 40px;
-
-color: #000000;
+    position: absolute;
+    left: 6.25%;
+    right: 20.85%;
+    top: 279px;
+    bottom: 10.38%;
+        
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #528850;
 
 }
 
-.второй_текст{
+.Как_записать {
 
-position: absolute;
-left: 6.25%;
-right: 50.85%;
-top: 55.81%;
-bottom: 55.38%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 24px;
-
-color: #3F3F3F;
-}
-
-#square2 {
-
-position: absolute;
-width: 1920px;
-height: 1000px;
-left: 0px;
-right: 0px;
-top: 1000px;
-
-background-color: #FFFFFF;
+    position: absolute;
+    left: 6.25%;
+    right: 20.85%;
+    top: 314px;
+    bottom: 10.38%;
+        
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #528850;
 
 }
+
+.Информация {
+
+    position: absolute;
+    left: 6.25%;
+    right: 20.85%;
+    top: 364px;
+    bottom: 10.38%;
+        
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #000000;
+
+}
+
+.Видеоролик {
+
+    position: absolute;
+    left: 6.25%;
+    right: 20.85%;
+    top: 399px;
+    bottom: 10.38%;
+        
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #000000;
+
+}
+
+.Родители {
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 1100px;
+    bottom: 10.38%;
+        
+    text-align: center;
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #ff0000;
+
+}
+
+.Представители {
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 1130px;
+    bottom: 10.38%;
+        
+    text-align: center;
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #ff0000;
+
+}
+
+.Активация {
+
+    position: absolute;
+    left: 6.25%;
+    right: 20.85%;
+    top: 1175px;
+    bottom: 10.38%;
+        
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #000000;
+
+}
+
+.Документы {
+
+    position: absolute;
+    left: 6.25%;
+    right: 20.85%;
+    top: 1230px;
+    bottom: 10.38%;
+        
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #000000;
+
+}
+
+
+.Список {
+
+        position: absolute;
+        left: 6.25%;
+        right: 20.85%;
+        top: 1270px;
+        bottom: 10.38%;
+            
+        font-family: 'Courier New';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 24px;
+            
+        color: #000000;
+
+}
+
+.Вопросы2 {
+
+    position: absolute;
+    left: 6.25%;
+    right: 20.85%;
+    top: 1530px;
+    bottom: 10.38%;
+        
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+        
+    color: #000000;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .заголовок_для_оглавления {
 
 position: absolute;
 left: 44.00%;
 right: 41.00%;
-top: 112.5%;
-bottom: 94.82%;
+top: 319.5%;
+bottom: 301.82%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -350,8 +513,8 @@ text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 134.00%;
-bottom: 72.87%;
+top: 341.00%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -368,8 +531,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 144.00%;
-bottom: 72.87%;
+top: 351.00%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -386,8 +549,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 149.00%;
-bottom: 72.87%;
+top: 356.00%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -404,8 +567,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 154.00%;
-bottom: 72.87%;
+top: 361.00%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -422,8 +585,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 159.00%;
-bottom: 72.87%;
+top: 366.00%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -441,8 +604,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 164.00%;
-bottom: 72.87%;
+top: 371.00%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -460,8 +623,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 175.00%;
-bottom: 72.87%;
+top: 382.00%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -479,8 +642,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 182.5%;
-bottom: 72.87%;
+top: 389.5%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -497,8 +660,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 192.5%;
-bottom: 72.87%;
+top: 399.5%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -510,13 +673,13 @@ color: #000000;
 
 }
 
-.ГТО-2022 {
+.ГТО-2021 {
 
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 197.5%;
-bottom: 72.87%;
+top: 404.5%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -533,8 +696,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 202.5%;
-bottom: 72.87%;
+top: 409.5%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -551,8 +714,8 @@ color: #000000;
 position: absolute;
 left: 8.00%;
 right: 75.00%;
-top: 207.5%;
-bottom: 72.87%;
+top: 414.5%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -571,8 +734,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 52%;
-top: 134%;
-bottom: 77%;
+top: 341%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -589,8 +752,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 139%;
-bottom: 77%;
+top: 346%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -607,8 +770,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 144%;
-bottom: 77%;
+top: 351%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -625,8 +788,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 154%;
-bottom: 77%;
+top: 361%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -643,8 +806,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 159%;
-bottom: 77%;
+top: 366%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -662,8 +825,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 164%;
-bottom: 77%;
+top: 371%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -680,8 +843,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 169%;
-bottom: 77%;
+top: 376%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -699,8 +862,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 174%;
-bottom: 77%;
+top: 381%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -717,8 +880,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 184%;
-bottom: 77%;
+top: 391%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -735,8 +898,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 189%;
-bottom: 77%;
+top: 396%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -754,8 +917,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 194%;
-bottom: 77%;
+top: 401%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -772,8 +935,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 199%;
-bottom: 77%;
+top: 406%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -790,8 +953,8 @@ color: #000000;
 position: absolute;
 left: 42%;
 right: 10%;
-top: 204%;
-bottom: 77%;
+top: 411%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -808,8 +971,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 134%;
-bottom: 77%;
+top: 341%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -827,8 +990,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 139%;
-bottom: 77%;
+top: 346%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -845,8 +1008,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 144%;
-bottom: 77%;
+top: 351%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -863,8 +1026,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 149%;
-bottom: 77%;
+top: 356%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -882,8 +1045,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 154%;
-bottom: 77%;
+top: 361%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -902,8 +1065,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 1%;
-top: 159%;
-bottom: 77%;
+top: 366%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -921,8 +1084,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 1%;
-top: 164%;
-bottom: 77%;
+top: 371%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -941,8 +1104,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 169%;
-bottom: 77%;
+top: 376%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -960,8 +1123,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 174%;
-bottom: 77%;
+top: 381%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -979,8 +1142,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 1%;
-top: 179%;
-bottom: 77%;
+top: 386%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -998,8 +1161,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 187%;
-bottom: 77%;
+top: 394%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -1017,8 +1180,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 192%;
-bottom: 77%;
+top: 399%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -1036,8 +1199,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 1%;
-top: 197%;
-bottom: 77%;
+top: 404%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -1054,8 +1217,8 @@ color: #000000;
 position: absolute;
 left: 76%;
 right: 10%;
-top: 205%;
-bottom: 77%;
+top: 412%;
+bottom: 279.87%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -1072,8 +1235,8 @@ color: #000000;
 position: absolute;
 left: 6.25%;
 right: 74.13%;
-top: 130%;
-bottom: -114%;
+top: 337%;
+bottom: -321%;
 
 
 background: #D0D0D0;
@@ -1086,8 +1249,8 @@ box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
 position: absolute;
 left: 40.00%;
 right: 40.50%;
-top: 130%;
-bottom: -114%;
+top: 337%;
+bottom: -321%;
 
 
 background: #D0D0D0;
@@ -1100,8 +1263,8 @@ box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
 position: absolute;
 left: 74.13%;
 right: 6.25%;
-top: 130%;
-bottom: -114%;
+top: 337%;
+bottom: -321%;
 
 
 background: #D0D0D0;
@@ -1115,8 +1278,7 @@ position: absolute;
 width: 1920px;
 height: 200px;
 left: 0px;
-right: 0px;
-top: 2120px;
+top: 4108px;
 
 background-color: #000000;
 
@@ -1127,8 +1289,8 @@ background-color: #000000;
 position: absolute;
 left: 6.25%;
 right: 83.11%;
-top: 2162px;
-bottom: 91%;
+top: 4150px;
+bottom: 91.05%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -1152,7 +1314,7 @@ border-radius: 50%;
 position: absolute;
 left: 66.25%;
 right: 26.92%;
-top: 110%;
+top: 316%;
 bottom: -10%;
 
 background: #0077E5;
@@ -1160,25 +1322,26 @@ box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
 
 }
 
+
 .d5 {
 
 width: 141px; 
 height: 141px;
 border-radius: 50%;
-    
+
 position: absolute;
 left: 97%;
 right: 3%;
-top: 160%;
+top: 368%;
 bottom: -79.18%;
-    
+
 background: #969696;
 transform: rotate(-90deg);
-    
+
 }
-    
+
 .d6 {
-    
+
 width: 141px; 
 height: 141px;
 border-radius: 50%;
@@ -1186,23 +1349,24 @@ border-radius: 50%;
 position: absolute;
 left: -3.84%;
 right: 80.32%;
-top: 140%;
+top: 347%;
 bottom: -59.18%;
-    
-    
+
+
 background: #000000;
 box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
 transform: rotate(90deg);
-    
+
 }
+
 
 .загаловок_для_подвала2 {
 
 position: absolute;
 left: 10.40%;
 right: 83.11%;
-top: 2162px;
-bottom: 91%;
+top: 4150px;
+bottom: 91.05%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -1222,8 +1386,8 @@ text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
 position: absolute;
 left: 11.25%;
 right: 83.11%;
-top: 2162px;
-bottom: 91%;
+top: 4150px;
+bottom: 91.05%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -1243,8 +1407,8 @@ text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
 position: absolute;
 left: 29.43%;
 right: 40.79%;
-top: 2162px;
-bottom: 91%;
+top: 4150px;
+bottom: 91.05%;
 
 font-family: 'Courier New';
 font-style: bold;
@@ -1261,8 +1425,8 @@ color: #FFFFFF;
 position: absolute;
 left: 46.29%;
 right: 31.49%;
-top: 2182px;
-bottom: 91%;
+top: 4170px;
+bottom: 91.05%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -1279,8 +1443,8 @@ color: #FFFFFF;
 position: absolute;
 left: 29.43%;
 right: 22.51%;
-top: 2225px;
-bottom: 91%;
+top: 4213px;
+bottom: 91.05%;
 
 font-family: 'Courier New';
 font-style: normal;
@@ -1291,34 +1455,6 @@ line-height: 24px;
 color: #FFFFFF;
 
 }
-
-    .Вход {
-
-        position: absolute;
-        left: 78.10%;
-        right: 0%;
-        top: 2203px;
-        bottom: 91%;
-        
-        font-family: 'Courier New';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 20px;
-        line-height: 24px;
-        
-        color: #ffffff;
-
-        box-sizing: border-box;
-        border: 1px solid white;
-        color: white;
-        letter-spacing: 1.2px;
-        line-height: 1;
-        padding: 15px 40px;
-        position: relative;
-        
-        }
-
-
 
 
 

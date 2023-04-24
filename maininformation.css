@@ -9,7 +9,7 @@ body {
     position: absolute;
     width: 800px;
     height: 420px;
-    top: 1370px; 
+    top: 1400px; 
     bottom: auto;
     right: auto; 
     left: 6.25%;
@@ -21,7 +21,7 @@ body {
     position: absolute;
     width: 800px;
     height: 420px;
-    top: 1910px; 
+    top: 1950px; 
     bottom: auto;
     right: auto; 
     left: 6.25%;
@@ -201,7 +201,7 @@ color: #0077E5;
 position: absolute;
 left: 6.25%;
 right: 20.85%;
-top: 22%;
+top: 209px;
 bottom: 10.38%;
     
 font-family: 'Courier New';
@@ -220,7 +220,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 26%;
+    top: 247px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -238,7 +238,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 37%;
+    top: 351.5px;
     bottom: 10.38%;
         
     font-family: 'Courier New';
@@ -257,7 +257,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 41%;
+    top: 389.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -275,7 +275,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 51%;
+    top: 484.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -293,7 +293,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 56%;
+    top: 532px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -311,7 +311,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 58%;
+    top: 551px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -329,7 +329,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 63%;
+    top: 598.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -347,7 +347,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 65%;
+    top: 617.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -365,7 +365,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 70%;
+    top: 665px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -383,7 +383,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 72%;
+    top: 684px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -401,7 +401,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 84%;
+    top: 798px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -419,7 +419,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 88%;
+    top: 836px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -437,7 +437,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 15.85%;
-    top: 95%;
+    top: 902.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -455,7 +455,7 @@ color: #528850;
     position: absolute;
     left: 6.25%;
     right: 15.85%;
-    top: 104%;
+    top: 988px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -479,7 +479,7 @@ em {
     position: absolute;
     left: 6.25%;
     right: 15.85%;
-    top: 108%;
+    top: 1026px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -497,7 +497,7 @@ em {
     position: absolute;
     left: 6.25%;
     right: 15.85%;
-    top: 119%;
+    top: 1130.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -515,7 +515,7 @@ em {
     position: absolute;
     left: 6.25%;
     right: 15.85%;
-    top: 123%;
+    top: 1168.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -533,7 +533,7 @@ em {
     position: absolute;
     left: 6.25%;
     right: 15.85%;
-    top: 127%;
+    top: 1206.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -551,7 +551,7 @@ em {
     position: absolute;
     left: 6.25%;
     right: 15.85%;
-    top: 131%;
+    top: 1244.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -569,7 +569,7 @@ em {
     position: absolute;
     left: 6.25%;
     right: 15.85%;
-    top: 137%;
+    top: 1301.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -587,7 +587,7 @@ em {
     position: absolute;
     left: 6.25%;
     right: 15.85%;
-    top: 141%;
+    top: 1339.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -605,7 +605,7 @@ em {
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 195%;
+    top: 1852.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -623,7 +623,7 @@ em {
     position: absolute;
     left: 6.25%;
     right: 20.85%;
-    top: 201%;
+    top: 1909.5px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -641,7 +641,7 @@ em {
     position: absolute;
     left: 32.50%;
     right: 1.85%;
-    top: 133.20%;
+    top: 1265.4px;
     bottom: 10.38%;
     
     font-family: 'Courier New';
@@ -1562,36 +1562,36 @@ box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
 
 #square6 {
 
-position: absolute;
-width: 1920px;
-height: 200px;
-left: 0px;
-top: 4000px;
-
-background-color: #000000;
-
-}
-
-.загаловок_для_подвала1 {
-
-position: absolute;
-left: 6.25%;
-right: 83.11%;
-top: 435%;
-bottom: 91.05%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 44px;
-
-
-color: #FFFFFF;
-
-text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
-
-}
+    position: absolute;
+    width: 1920px;
+    height: 200px;
+    left: 0px;
+    top: 4108px;
+    
+    background-color: #000000;
+    
+    }
+    
+    .загаловок_для_подвала1 {
+    
+    position: absolute;
+    left: 6.25%;
+    right: 83.11%;
+    top: 4150px;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    
+    color: #FFFFFF;
+    
+    text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
 
 .d4 {
 
@@ -1650,100 +1650,99 @@ transform: rotate(90deg);
 
 .загаловок_для_подвала2 {
 
-position: absolute;
-left: 10.40%;
-right: 83.11%;
-top: 435%;
-bottom: 91.05%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 44px;
-
-
-color: #0077E5;
-
-text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
-
-}
-
-.загаловок_для_подвала3 {
-
-position: absolute;
-left: 11.25%;
-right: 83.11%;
-top: 435%;
-bottom: 91.05%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 44px;
-
-
-color: #FFFFFF;
-
-text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
-
-}
-
-.Почта {
-
-position: absolute;
-left: 29.43%;
-right: 40.79%;
-top: 435%;
-bottom: 91.05%;
-
-font-family: 'Courier New';
-font-style: bold;
-font-weight: 700;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
-
-}
-
-.VK {
-
-position: absolute;
-left: 46.29%;
-right: 31.49%;
-top: 437%;
-bottom: 91.05%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
-
-}
-
-.Местоположение {
-
-position: absolute;
-left: 29.43%;
-right: 22.51%;
-top: 440%;
-bottom: 91.05%;
-
-font-family: 'Courier New';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
-
-}
-
+    position: absolute;
+    left: 10.40%;
+    right: 83.11%;
+    top: 4150px;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    
+    color: #0077E5;
+    
+    text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
+    
+    .загаловок_для_подвала3 {
+    
+    position: absolute;
+    left: 11.25%;
+    right: 83.11%;
+    top: 4150px;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    
+    color: #FFFFFF;
+    
+    text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
+    
+    .Почта {
+    
+    position: absolute;
+    left: 29.43%;
+    right: 40.79%;
+    top: 4150px;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+    
+    }
+    
+    .VK {
+    
+    position: absolute;
+    left: 46.29%;
+    right: 31.49%;
+    top: 4170px;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+    
+    }
+    
+    .Местоположение {
+    
+    position: absolute;
+    left: 29.43%;
+    right: 22.51%;
+    top: 4213px;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+    
+    }
 
 
 

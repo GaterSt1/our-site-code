@@ -1,0 +1,142 @@
+#rectangle{
+    position: absolute;
+left: 30.00%;
+right: 30.50%;
+top: 3%;
+bottom: 25%;
+
+
+background: #D0D0D0;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+    
+}
+
+
+
+
+
+
+
+
+
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+    position: absolute;
+  padding: 16px;
+  left: 30.00%;
+    right: 30.50%;
+    font-family: 'Courier New';
+    font-style: normal;
+    
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  font-family: 'Courier New';
+    font-style: normal;
+    
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #0077E5;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+
+  text-align: center;
+  top: 63%;
+    
+}
+
+
+.d4 {
+
+    width: 141px; 
+    height: 141px;
+    border-radius: 50%;
+    
+    position: absolute;
+    left: 66.25%;
+    right: 26.92%;
+    top: 16%;
+    bottom: -10%;
+    
+    
+    background: #0077E5;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
+    
+    
+    .d5 {
+    
+    width: 141px; 
+    height: 141px;
+    border-radius: 50%;
+    
+    position: absolute;
+    left: 97%;
+    right: 3%;
+    top: 68%;
+    bottom: -79.18%;
+    
+    background: #969696;
+    transform: rotate(-90deg);
+    
+    }
+    
+    .d6 {
+    
+    width: 141px; 
+    height: 141px;
+    border-radius: 50%;
+    
+    position: absolute;
+    left: -3.84%;
+    right: 80.32%;
+    top: 47%;
+    bottom: -59.18%;
+    
+    
+    background: #000000;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+    transform: rotate(90deg);
+    
+    }
