@@ -1,0 +1,1254 @@
+body {
+
+    overflow-x: hidden;
+
+}
+
+
+#square1 {
+
+position: absolute;
+width: 1920px;
+height: 2920px;
+left: 0px;
+top: 0%;
+bottom: 907%;
+
+background-color: #D0D0D0;
+}
+
+.загаловок1 { 
+
+
+    position: absolute;
+    left: 6.25%;
+    right: 83.11%;
+    top: 7%;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    
+    color: #000000;
+    
+    text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
+    
+    .загаловок2 { 
+    
+    
+    position: absolute;
+    left: 10.40%;
+    right: 83.11%;
+    top: 7%;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    
+    color: #0077E5;
+    
+    text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
+    
+    .загаловок3 { 
+    
+    
+    position: absolute;
+    left: 11.25%;
+    right: 83.11%;
+    top: 7%;
+    bottom: 91.05%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    
+    color: #000000;
+    
+    text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+    
+    }
+    
+
+.главная {
+
+position: absolute;
+left: 29.43%;
+right: 70.79%;
+top: 8.28%;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: bold;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #3F3F3F;
+
+}
+
+.прием_в_школу {
+
+position: absolute;
+left: 46.29%;
+right: 31.49%;
+top: 8.28%;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #3F3F3F;
+
+}
+
+.жалобы_и_отзывы {
+
+position: absolute;
+left: 66.89%;
+right: 22.51%;
+top: 8.28%;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #3F3F3F;
+
+}
+
+.телефон {
+
+position: absolute;
+left: 88.21%;
+right: 1.47%;
+top: 8.28%;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #3F3F3F;
+
+}
+
+.phone {
+font-size: 24px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+ position: absolute;
+left: 86.50%;
+right: 11.50%;
+top: 4.80%;
+bottom: 9.72%;
+
+color: #0077E5;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Заголовок_текста{
+    text-align: center;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 180px;
+    bottom: 10.38%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px;
+    
+    color: black;
+}
+
+
+.текст1{
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0%;
+    top: 230px;
+    bottom: 10.38%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    
+    color: black;
+}
+
+.текст2{
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0%;
+    top: 270px;
+    bottom: 10.38%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    
+    color: black;
+}
+
+.текст3{
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0%;
+    top: 310px;
+    bottom: 10.38%;
+    
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.заголовок_для_оглавления {
+
+position: absolute;
+left: 44.00%;
+right: 41.00%;
+top: 319.5%;
+bottom: 301.82%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+
+
+color: #000000;
+
+text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.Сведение_об_образовательной_организации {
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 341.00%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Горячее_питание {
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 351.00%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Школьный_спортивный_клуб {
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 356.00%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Дополнительное_образование {
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 361.00%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Летний_лагерь_“Радужный” {
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 366.00%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Региональный_проект_“Цифровая_образовательная_среда{
+
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 371.00%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Противодействие_коррупции_в_Ярославской_области {
+
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 382.00%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Демоверсии_итоговых_работ_в_рамках_промежуточной_аттестации {
+
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 389.5%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Продолжаем_учиться {
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 399.5%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.ГТО-2021 {
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 404.5%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Достижение_учеников {
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 409.5%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Приёмная_директора {
+
+position: absolute;
+left: 8.00%;
+right: 75.00%;
+top: 414.5%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+}
+
+
+.о_школе {
+
+position: absolute;
+left: 42%;
+right: 52%;
+top: 341%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.азбука_школы {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 346%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Школьный_этап_Всероссийской_олимпиады_школьников {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 351%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.ГИА-11_2022 {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 361%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.ГИА-9_2022 {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 366%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+}
+
+.Безопасность {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 371%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Информационная_безопасность {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 376%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+}
+
+.Уполномоченный_по_защите_прав_участников_образ_процесса {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 381%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Обращение_граждан {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 391%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Наши_достижения {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 396%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+}
+
+.Уклад_школьной_жизни {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 401%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Профориентарная_работа {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 406%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Календарь {
+
+position: absolute;
+left: 42%;
+right: 10%;
+top: 411%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Музей_ученичества {
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 341%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+.Медецинский_кабинет {
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 346%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Библиотека {
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 351%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+
+.Группы_продлённого_дня {
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 356%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+.Услуги_школы {
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 361%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+
+.Информация_для_родителей {
+
+position: absolute;
+left: 76%;
+right: 1%;
+top: 366%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+.Материально-техническая_база {
+
+position: absolute;
+left: 76%;
+right: 1%;
+top: 371%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+
+.Электронный_помощник {
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 376%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+.Дошкольные_группы {
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 381%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+.Общешкольный_родительский_комитет {
+
+position: absolute;
+left: 76%;
+right: 1%;
+top: 386%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+.Карта_сайта{
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 394%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+.Решаем_вместе{
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 399%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+
+.ФГОС_2021_функциональная_грамотность{
+
+position: absolute;
+left: 76%;
+right: 1%;
+top: 404%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+.Инавационная_деятельность{
+
+position: absolute;
+left: 76%;
+right: 10%;
+top: 412%;
+bottom: 279.87%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+
+#square3 {
+
+position: absolute;
+left: 6.25%;
+right: 74.13%;
+top: 337%;
+bottom: -321%;
+
+
+background: #D0D0D0;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+#square4 {
+
+position: absolute;
+left: 40.00%;
+right: 40.50%;
+top: 337%;
+bottom: -321%;
+
+
+background: #D0D0D0;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+#square5 {
+
+position: absolute;
+left: 74.13%;
+right: 6.25%;
+top: 337%;
+bottom: -321%;
+
+
+background: #D0D0D0;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+#square6 {
+
+position: absolute;
+width: 1920px;
+height: 200px;
+left: 0px;
+top: 4108px;
+
+background-color: #000000;
+
+}
+
+.загаловок_для_подвала1 {
+
+position: absolute;
+left: 6.25%;
+right: 83.11%;
+top: 4150px;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+
+
+color: #FFFFFF;
+
+text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.d4 {
+
+width: 141px; 
+height: 141px;
+border-radius: 50%;
+
+position: absolute;
+left: 66.25%;
+right: 26.92%;
+top: 316%;
+bottom: -10%;
+
+background: #0077E5;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+
+.d5 {
+
+width: 141px; 
+height: 141px;
+border-radius: 50%;
+
+position: absolute;
+left: 97%;
+right: 3%;
+top: 368%;
+bottom: -79.18%;
+
+background: #969696;
+transform: rotate(-90deg);
+
+}
+
+.d6 {
+
+width: 141px; 
+height: 141px;
+border-radius: 50%;
+
+position: absolute;
+left: -3.84%;
+right: 80.32%;
+top: 347%;
+bottom: -59.18%;
+
+
+background: #000000;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+transform: rotate(90deg);
+
+}
+
+
+.загаловок_для_подвала2 {
+
+position: absolute;
+left: 10.40%;
+right: 83.11%;
+top: 4150px;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+
+
+color: #0077E5;
+
+text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.загаловок_для_подвала3 {
+
+position: absolute;
+left: 11.25%;
+right: 83.11%;
+top: 4150px;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+
+
+color: #FFFFFF;
+
+text-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.Почта {
+
+position: absolute;
+left: 29.43%;
+right: 40.79%;
+top: 4150px;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: bold;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+.VK {
+
+position: absolute;
+left: 46.29%;
+right: 31.49%;
+top: 4170px;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+.Местоположение {
+
+position: absolute;
+left: 29.43%;
+right: 22.51%;
+top: 4213px;
+bottom: 91.05%;
+
+font-family: 'Courier New';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+
+
+
+
+
+
